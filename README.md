@@ -13,7 +13,7 @@ Learn more about me [here](https://junha.dev)!
 ### Some of my work:
 - [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
 - [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface. (WIP, looking for help!)
-- [Spekkio](https://github.com/spekkio-bot/spekkio), a set of tools and services to automate CI/CD on GitHub. (WIP, looking for help!)
+- [Spekkio](https://github.com/spekkio-bot/spekkio), a set of GitHub automation tools and services. (WIP, looking for help!)
 - [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
 
