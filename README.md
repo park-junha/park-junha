@@ -11,10 +11,16 @@ Learn more about me [here](https://junha.dev)!
 </p>
 
 ### Some of my work:
+- [Spekkio](https://github.com/spekkio-bot/spekkio), a set of tools and services to automate CI/CD on GitHub. (WIP, looking for help!)
+  - [Core source code](https://github.com/spekkio-bot/spekkio)
+  - [CLI source code](https://github.com/spekkio-bot/spekkio-cli)
+  - [Database schema](https://github.com/spekkio-bot/spekkio-dbschema)
 - [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
+  - [App source code](https://github.com/infinite-options/Prep-To-Your-Door)
 - [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface. (WIP, looking for help!)
-- [Spekkio](https://github.com/spekkio-bot/spekkio), a set of GitHub automation tools and services. (WIP, looking for help!)
-- [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
+  - [App source code](https://github.com/park-junha/WhereTo)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
+  - [App source code](https://github.com/park-junha/CovidSweeper)
+- [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
 
 Feel free to reach out to me if you'd like to help! You can reach me by [email](mailto:jpark3@scu.edu) or through [LinkedIn](https://www.linkedin.com/in/park-junha/).
