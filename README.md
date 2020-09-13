@@ -4,7 +4,7 @@ I'm a software engineer based in the Bay Area. I develop web apps and automate t
 
 Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with JavaScript, Python, Go, and Bash.
 
-Learn more about me [here](https://junha.dev)!
+View my [resume](https://park-junha.github.io/Resume/) or learn more about me [here](https://junha.dev)!
 
 <p align="center">
   <img width="128" src="https://github.com/park-junha/park-junha/blob/master/nu.gif">
