@@ -11,7 +11,7 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
 </p>
 
 ### Some of my work:
-- [Spekkio](https://github.com/spekkio-bot/spekkio), a set of tools and services to deliver a better developer experience for GitHub users. (WIP, looking for help!)
+- [Spekkio](https://github.com/spekkio-bot), a set of tools and services to deliver a better developer experience for GitHub users. (WIP, looking for help!)
   - [Core source code](https://github.com/spekkio-bot/spekkio) (Go)
   - [CLI source code](https://github.com/spekkio-bot/spekkio-cli) (Go)
   - [Database schema](https://github.com/spekkio-bot/spekkio-dbschema) (Postgres)
