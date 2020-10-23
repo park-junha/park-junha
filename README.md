@@ -15,7 +15,6 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
   - [App source code](https://github.com/park-junha/WhereTo) (React + TypeScript)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
   - [App source code](https://github.com/park-junha/CovidSweeper) (AngularJS + Node.js)
-- [Spekkio](https://github.com/spekkio-bot), a set of tools and services to deliver a better developer experience for GitHub users. (WIP, looking for help!)
 - [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
 - [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
 
