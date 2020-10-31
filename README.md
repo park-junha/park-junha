@@ -1,6 +1,6 @@
 ## Hi. I'm Junha.
 
-I'm a software engineer based in the Bay Area. I develop web apps and automate tedious things.
+I'm a software engineer based in the Bay Area. I develop web apps, automate tedious things, and do stuff with data.
 
 Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with JavaScript, Python, Go, and Bash.
 
