@@ -18,4 +18,7 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
 - [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
 - [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
 
+### Open source software I've contributed to:
+- [V8](https://github.com/v8/v8), Google's JavaScript engine. Powers Google Chrome, Node.js, and much more. (C++)
+
 Feel free to reach out to me if you'd like to help! You can reach me by [email](mailto:jpark3@scu.edu) or through [LinkedIn](https://www.linkedin.com/in/park-junha/).
