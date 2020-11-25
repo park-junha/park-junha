@@ -2,7 +2,7 @@
 
 I'm a software engineer based in the Bay Area. I develop web apps, automate tedious things, and do stuff with data.
 
-Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with JavaScript, Python, Go, and Bash.
+Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with TypeScript, Python, and Go.
 
 View my [resume](https://park-junha.github.io/Resume/) or learn more about me [here](https://junha.dev)!
 
@@ -11,7 +11,7 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
 </p>
 
 ### Some of my work:
-- [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface. (WIP, looking for help!)
+- [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface.
   - [App source code](https://github.com/park-junha/WhereTo) (React + TypeScript)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
   - [App source code](https://github.com/park-junha/CovidSweeper) (AngularJS + Node.js)
