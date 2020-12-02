@@ -2,7 +2,7 @@
 
 I'm a software engineer based in the Bay Area. I develop web apps, automate tedious things, and do stuff with data.
 
-Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with TypeScript, Python, and Go.
+Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with TypeScript, Python, Bash, and Go.
 
 View my [resume](https://park-junha.github.io/Resume/) or learn more about me [here](https://junha.dev)!
 
@@ -15,12 +15,14 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
   - [App source code](https://github.com/park-junha/WhereTo) (React + TypeScript)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
   - [App source code](https://github.com/park-junha/CovidSweeper) (AngularJS + Node.js)
-- [Spekkio](https://github.com/park-junha/Spekkio), my personal assistant. (Python + Bash)
+- [Spekkio](https://github.com/park-junha/Spekkio), my personal assistant. (Bash + Python)
 - [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
 - [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
 
 ### Open source software I've contributed to:
-- [V8](https://v8.dev/), Google's JavaScript engine. Powers Google Chrome, Node.js, and more.
+- [v8](https://v8.dev/), Google's JavaScript engine. Powers Google Chrome, Node.js, and more.
   - [Source code](https://github.com/v8/v8) (C++)
+- [agw](https://github.com/davyzhang/agw/blob/master/README.md), a Go module for supporting cross-platform HTTP routers (namely AWS Lambda and a traditional HTTP server)
+  - [Source code](https://github.com/davyzhang/agw) (Go)
 
-Feel free to reach out to me if you'd like to help! You can reach me by [email](mailto:jpark3@scu.edu) or through [LinkedIn](https://www.linkedin.com/in/park-junha/).
+Feel free to reach out to me! You can contact me by [email](mailto:jpark3@scu.edu) or through [LinkedIn](https://www.linkedin.com/in/park-junha/).
