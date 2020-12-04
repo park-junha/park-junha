@@ -11,9 +11,8 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
 </p>
 
 ### Some of my work:
-- [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface.
+- [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface. Also available on [Firefox](https://addons.mozilla.org/en-US/firefox/addon/where-to/).
   - [App source code](https://github.com/park-junha/WhereTo) (React + TypeScript)
-  - [Firefox Add-On](https://addons.mozilla.org/en-US/firefox/addon/where-to/)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
   - [App source code](https://github.com/park-junha/CovidSweeper) (AngularJS + Node.js)
 - [Spekkio](https://github.com/park-junha/Spekkio), my personal assistant. (Bash)
