@@ -17,12 +17,15 @@ View my [resume](https://park-junha.github.io/Resume/) or learn more about me [h
   - [App source code](https://github.com/park-junha/PersonalWebsite) (Angular 2 + Go)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
   - [App source code](https://github.com/park-junha/CovidSweeper) (AngularJS + Node.js)
+- [Kermit Bot](https://github.com/park-junha/KermitBot), a serverless Discord bot that organizes events and sends reminders. (Python)
 - [Spekkio](https://github.com/park-junha/Spekkio), my personal assistant. (Bash)
 
 ### Some software I've developed professionally:
 - [BigFix](https://www.hcltechsw.com/wps/portal/products/bigfix/home), an enterprise product that can manage tens of thousands of computers at once.
-- [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform.
-- [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time.
+  - [BigFix Insights](https://www.hcltechsw.com/products/bigfix/offerings/insights), a data analytics and visualization tool. (Node.js + TypeScript)
+  - BigFix WebUI, a web interface for BigFix. (AngularJS + Node.js)
+- [Prep To Your Door](https://preptoyourdoor.netlify.app), a subscription-based web e-commerce platform. (React + Python)
+- [Grad Planner](http://gradplanner.us), a web resource that helps undergraduate students complete their degree on time. (Python)
 
 ### Open source software I've contributed to:
 - [v8](https://v8.dev/), Google's JavaScript engine. Powers Google Chrome, Node.js, and more.
