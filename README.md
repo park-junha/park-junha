@@ -12,7 +12,7 @@ View my [resume](https://park-junha.github.io/Resume2020/) or learn more about m
 
 ### Some software I've developed professionally:
 - [BigFix](https://www.hcltechsw.com/wps/portal/products/bigfix/home), a security enterprise product for managing tens of thousands of computers at once.
-  - [BigFix Insights for Vulnerability Remediation](https://www.hcltechsw.com/products/bigfix/ivr-home), a unique service that provides a full pipeline from vulnerability scanning to vulnerabilty remediation.
+  - [BigFix Insights for Vulnerability Remediation](https://www.hcltechsw.com/products/bigfix/ivr-home), a unique service that provides a full pipeline from discovering vulnerabilities to remediating them.
   - [BigFix Insights](https://www.hcltechsw.com/products/bigfix/offerings/insights), a tool that identifies and prioritizes vulnerability risk.
   - BigFix WebUI, a web interface for BigFix.
 
