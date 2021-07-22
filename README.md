@@ -4,7 +4,7 @@ I'm a software engineer based in the Bay Area. I develop web apps, automate tedi
 
 Here you'll find source code for personal projects or open source software I've contributed to. Most of my work is developed with TypeScript, Python, Bash, and Go.
 
-View my [resume](https://park-junha.github.io/Resume2020/) or learn more about me [here](https://junha.dev)!
+View my [resume](https://park-junha.github.io/resume) or learn more about me [here](https://junha.dev)!
 
 <p align="center">
   <img width="128" src="https://github.com/park-junha/park-junha/blob/master/nu.gif">
@@ -18,7 +18,7 @@ View my [resume](https://park-junha.github.io/Resume2020/) or learn more about m
 
 ### Some of my personal projects:
 - [Where To](https://chrome.google.com/webstore/detail/where-to/kdhcodpjaffhbbphkahnkbllddjihima), a Chrome extension replacing your New Tab page with a customizable accessibility interface.
-  - [App source code](https://github.com/park-junha/WhereTo) (React + TypeScript)
+  - [App source code](https://github.com/park-junha/where-to) (React + TypeScript)
 - [junha.dev](https://junha.dev), my personal website.
   - [App source code](https://github.com/park-junha/PersonalWebsite) (Angular 2 + Go)
 - [CovidSweeper](https://park-junha.github.io/CovidSweeper/), a more challenging variant of Minesweeper with a global highscore board.
